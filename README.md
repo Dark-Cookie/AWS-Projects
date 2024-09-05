@@ -24,6 +24,11 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Services Used**: AWS Budgets
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/2.%20Create%20a%20Cost%20Budget)
 
+- **Project 3**: Launch a Hello World Website on the Internet
+  - **Description**: This project involves creating a basic web server on an AWS EC2 instance that hosts a simple "Hello World" website. The objective is to familiarize myself with setting up an EC2 instance, configuring it, and deploying a basic web application to make it accessible over the Internet.
+  - **Services Used**: Amazon EC2
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/3.%20Launch%20a%20Hello%20World%20Website%20on%20the%20Internet)
+
 ## Level 200 (Intermediate)
 
 These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
