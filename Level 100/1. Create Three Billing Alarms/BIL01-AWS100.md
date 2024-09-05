@@ -21,11 +21,11 @@ Level 100 (Introductory)
 
 ***1. How many billing alarms do you get for free?***
 
-* We can create up to 10 billing alarms for free as part of the AWS Free Tier.
+We can create up to 10 billing alarms for free as part of the AWS Free Tier.
 
 ***2. When a billing alarm is triggered how will you know?***
 
-* When a billing alarm is triggered, we will receive a notification via Amazon Simple Notification Service (SNS). This can be configured to send alerts through email, SMS, or other endpoints.
+When a billing alarm is triggered, we will receive a notification via Amazon Simple Notification Service (SNS). This can be configured to send alerts through email, SMS, or other endpoints.
 
 ***3. What is the difference between a billing alarm and a cloudwatch alarm?***
 
