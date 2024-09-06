@@ -29,6 +29,11 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Service Used**: Amazon EC2
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/3.%20Launch%20a%20Hello%20World%20Website%20on%20the%20Internet)
 
+- **Project 3**:  Push a Docker Image to Amazon ECR Repository
+  - **Description**: This project involves building a Docker image and pushing it to an Amazon Elastic Container Registry (ECR) repository. This process includes creating an ECR repository, tagging the Docker image, and using AWS CLI commands to authenticate and push the image to the repository.
+  - **Service Used**: Amazon Elastic Container Registry (ECR), Docker, AWS CLI
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/4.%20Push%20a%20Docker%20Image%20to%20Amazon%20ECR%20Repository)
+
 ## Level 200 (Intermediate)
 
 These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
