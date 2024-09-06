@@ -39,6 +39,11 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Service Used**: Amazon Relational Database Service (RDS)
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/5.%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server))
 
+- **Project 6**:  Create a DynamoDB Table
+  - **Description**: This project involved creating a DynamoDB table with provisioned capacity. Three random items were inserted into the table. A scan operation was performed to retrieve all items, and a query operation was used to fetch a single item based on specific criteria.
+  - **Service Used**: Amazon DynamoDB
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/6.%20Create%20a%20DynamoDB%20Table)
+
 ## Level 200 (Intermediate)
 
 These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
