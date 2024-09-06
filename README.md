@@ -44,6 +44,11 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Service Used**: Amazon DynamoDB
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/6.%20Create%20a%20DynamoDB%20Table)
 
+- **Project 7**:  Install & Configure AWS CLI then Create an S3 Bucket
+  - **Description**: This project involves setting up AWS CLI on your local machine, configuring it with your AWS credentials, and using it to create, list, and delete an S3 bucket. This process ensures that you can interact with AWS services programmatically and manage your S3 resources effectively.
+  - **Service Used**: AWS CLI, Amazon S3
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20Create%20an%20S3%20Bucket)
+
 ## Level 200 (Intermediate)
 
 These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
