@@ -6,9 +6,9 @@ This repository contains a collection of AWS-based projects that demonstrate var
 Projects are labeled based these four levels:
 
 - [Level 100 (Introductory)](https://github.com/Dark-Cookie/AWS-Projects/blob/main/README.md#level-100-introductory)
-- Level 200 (Intermediate)
-- Level 300 (Advanced)
-- Level 400 (Expert)
+- [Level 200 (Intermediate)](https://github.com/Dark-Cookie/AWS-Projects/blob/main/README.md#level-200-intermediate)
+- [Level 300 (Advanced)](https://github.com/Dark-Cookie/AWS-Projects/blob/main/README.md#level-300-advanced)
+- [Level 400 (Expert)](https://github.com/Dark-Cookie/AWS-Projects/blob/main/README.md#level-400-expert)
 
 ## Level 100 (Introductory)
 
