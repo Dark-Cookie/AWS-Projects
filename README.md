@@ -55,11 +55,25 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Service Used**: Amazon S3
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it)
 
-
 - **Project 9**:  Introduction to SNS (Simple Notification Service)
   - **Description**: This project involves creating an Amazon SNS (Simple Notification Service) topic, subscribing an email address to the topic, and confirming the subscription through the email. After confirming, a test message is sent through the SNS topic to verify that the email address receives the notification, demonstrating the basic functionality and setup of SNS for sending notifications.
   - **Service Used**: Amazon SNS
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/9.%20Introduction%20to%20SNS)
+
+- **Project 10**:  Create a Lambda Function to Add Two Numbers
+  - **Description**: Developed an AWS Lambda function using Python that takes two numbers as input, adds them together, and returns the result. The function also print the result out in the logs.
+  - **Service Used**: AWS Lambda
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/10.%20Create%20a%20Lambda%20Function%20to%20Add%20Two%20Numbers)
+
+- **Project 11**:  Host a Simple Static Webpage with S3 and CloudFront
+  - **Description**: Set up an S3 bucket to host a static webpage and uploaded the webpage content. Configured an Amazon CloudFront distribution to use the S3 bucket as its origin, ensuring that the webpage content is accessible only through the CloudFront endpoint to enhance security and performance.
+  - **Service Used**: Amazon S3, Amazon CloudFront
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/11.%20Host%20a%20Simple%20Static%20Webpage%20with%20S3%20and%20CloudFront)
+
+- **Project 12**:  Create an IAM User
+  - **Description**: Configured IAM by creating a new user with console access and adding it to a newly created group named "adminsGroup" with `AdministratorAccess` permissions. Enabled multi-factor authentication (MFA) for the root user and applied a password policy to enforce security best practices.
+  - **Service Used**: AWS Identity and Access Management (IAM)
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/12.%20Create%20an%20IAM%20User)
 
 ## Level 200 (Intermediate)
 
