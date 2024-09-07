@@ -129,4 +129,4 @@ These logs provide valuable information for debugging and performance optimizati
 - Use the cloud9 IDE to code the hello world Lambda initially, and then explore other deployment ideas like zip file uploads and SAM deployments
 
 ## Output
-![alt text](image.png)
+![alt text](Image.png)
