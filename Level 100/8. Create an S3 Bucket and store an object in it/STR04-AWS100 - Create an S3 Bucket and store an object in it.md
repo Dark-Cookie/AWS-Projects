@@ -103,4 +103,4 @@ S3 provides different storage classes that allow users to optimize storage costs
 - Do not turn on _versioning_ on this bucket, it will be difficult to delete.
 
 ## Output
-![alt text](image.png)
+![alt text](Image.png)
