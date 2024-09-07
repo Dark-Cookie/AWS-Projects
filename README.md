@@ -49,6 +49,18 @@ This folder contains projects that are suitable for beginners. They cover fundam
   - **Service Used**: AWS CLI, Amazon S3
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20Create%20an%20S3%20Bucket)
 
+
+- **Project 8**:  Create an S3 Bucket and store an object in it
+  - **Description**: This project involves creating an Amazon S3 bucket using the AWS Management Console and uploading a file into the bucket. Amazon S3 (Simple Storage Service) is used to store and retrieve any amount of data at any time, and this project demonstrates the basic steps of setting up and using S3 for storage.
+  - **Service Used**: Amazon S3
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it)
+
+
+- **Project 9**:  Introduction to SNS (Simple Notification Service)
+  - **Description**: This project involves creating an Amazon SNS (Simple Notification Service) topic, subscribing an email address to the topic, and confirming the subscription through the email. After confirming, a test message is sent through the SNS topic to verify that the email address receives the notification, demonstrating the basic functionality and setup of SNS for sending notifications.
+  - **Service Used**: Amazon SNS
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/9.%20Introduction%20to%20SNS)
+
 ## Level 200 (Intermediate)
 
 These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
