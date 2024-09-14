@@ -12,7 +12,7 @@ Projects are labeled based these four levels:
 
 ## Level 100 (Introductory)
 
-This folder contains projects that are suitable for beginners. They cover fundamental AWS concepts and basic services.
+**This folder contains projects that are suitable for beginners. They cover fundamental AWS concepts and basic services.**
 
 - **Project 1**: Create Three Billing Alarms
   - **Description**: This project involves setting up three AWS billing alarms to help monitor and control my AWS spending.
@@ -87,12 +87,18 @@ This folder contains projects that are suitable for beginners. They cover fundam
 
 ## Level 200 (Intermediate)
 
-These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.
+**These projects are designed for those who have a basic understanding of AWS and want to explore more complex scenarios.**
+
+- **Project 1**:  Create an Auto Scaling Group
+
+  - **Description**: This project involves setting up an Auto Scaling Group (ASG) to manage the number of EC2 instances dynamically based on my configuration.
+  - **Service Used**: Amazon EC2 Auto Scaling
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group)
 
 ## Level 300 (Advanced)
 
-Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.
+**Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
 
 ## Level 400 (Expert)
 
-These are the most challenging projects, showcasing advanced AWS solutions and best practices.
+**These are the most challenging projects, showcasing advanced AWS solutions and best practices.**
