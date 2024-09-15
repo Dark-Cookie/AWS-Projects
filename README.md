@@ -95,6 +95,16 @@ Projects are labeled based these four levels:
   - **Service Used**: Amazon EC2 Auto Scaling
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group)
 
+- **Project 2**:  Deploy a Docker container image on AWS Fargate
+  - **Description**: Deployed a Docker container image on AWS Fargate, allowing for scalable and managed execution of containerized applications without managing servers.
+  - **Service Used**: AWS Fargate, Docker, Amazon ECS
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate)
+
+- **Project 3**:  Create an Aurora RDS Database
+  - **Description**: Set up an Aurora RDS database using the MySQL-compatible engine and connected to the database from a local MySQL client _(MySQL Workbench)_ to create and test a table.
+  - **Service Used**: Amazon Aurora RDS
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database)
+
 ## Level 300 (Advanced)
 
 **Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
