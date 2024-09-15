@@ -116,6 +116,12 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS CloudWatch, AWS EC2
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm)
 
+- **Project 6**:  Create a New CMK in KMS and Encrypt an Object
+
+  - **Description**: Created a new Customer Master Key (CMK) using AWS Key Management Service (KMS) and encrypted a file that was uploaded in an S3 bucket.
+  - **Service Used**: AWS Key Management Service (KMS), Amazon S3
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/7.%20Create%20a%20New%20CMK%20in%20KMS%20and%20Encrypt%20an%20Object)
+
 ## Level 300 (Advanced)
 
 **Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
