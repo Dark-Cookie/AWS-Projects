@@ -49,7 +49,6 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS CLI, Amazon S3
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20Create%20an%20S3%20Bucket)
 
-
 - **Project 8**:  Create an S3 Bucket and store an object in it
   - **Description**: This project involves creating an Amazon S3 bucket using the AWS Management Console and uploading a file into the bucket. Amazon S3 (Simple Storage Service) is used to store and retrieve any amount of data at any time, and this project demonstrates the basic steps of setting up and using S3 for storage.
   - **Service Used**: Amazon S3
@@ -104,6 +103,12 @@ Projects are labeled based these four levels:
   - **Description**: Set up an Aurora RDS database using the MySQL-compatible engine and connected to the database from a local MySQL client _(MySQL Workbench)_ to create and test a table.
   - **Service Used**: Amazon Aurora RDS
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database)
+
+- **Project 4**:  Setup a Simple State Machine with Two Steps
+
+  - **Description**: This project involves creating a state machine that orchestrates the execution of two AWS Lambda functions and verifying that the combined functionality produces the correct results.
+  - **Service Used**: AWS Step Functions, AWS Lambda
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
 
 ## Level 300 (Advanced)
 
