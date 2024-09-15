@@ -110,11 +110,11 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS Step Functions, AWS Lambda
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
 
-- **Project 5**:  Create a Serverless API
+- **Project 5**:  Create a CloudWatch Alarm
 
-  - **Description**: Developd a serverless API and secured it with an API Key to control access.
-  - **Service Used**: AWS Lambda, API Gateway
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/5.%20Create%20a%20Serverless%20API)
+  - **Description**: Set up a CloudWatch Alarm to monitor network traffic (NetworkIn) for an EC2 instance.
+  - **Service Used**: AWS CloudWatch, AWS EC2
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm)
 
 ## Level 300 (Advanced)
 
