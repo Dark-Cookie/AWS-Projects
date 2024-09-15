@@ -110,6 +110,12 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS Step Functions, AWS Lambda
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
 
+- **Project 5**:  Create a Serverless API
+
+  - **Description**: Developd a serverless API and secured it with an API Key to control access.
+  - **Service Used**: AWS Lambda, API Gateway
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/5.%20Create%20a%20Serverless%20API)
+
 ## Level 300 (Advanced)
 
 **Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
