@@ -122,6 +122,12 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS Key Management Service (KMS), Amazon S3
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/7.%20Create%20a%20New%20CMK%20in%20KMS%20and%20Encrypt%20an%20Object)
 
+- **Project 7**:  Create an EFS Shared File System
+
+  - **Description**: Set up an Amazon Elastic File System (EFS) to provide a shared file system across multiple Amazon EC2 instances in separate Availability Zones within the same region.
+  - **Service Used**: Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2)
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/8.%20Create%20an%20EFS%20Shared%20File%20System)
+
 ## Level 300 (Advanced)
 
 **Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
