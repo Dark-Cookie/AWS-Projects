@@ -26,7 +26,10 @@
     - Security Groups
 - Verify connectivity of public instance / private instance 
 - Delete the Terraform deployment
-- Verify resources are deleted 
+- Verify resources are deleted
+
+### Architectural Diagram
+![Architecture Diagram](Image.png)
 
 ### You need to answer the following:
 ### ***What is Infrastructure as Code (IaC)?***
