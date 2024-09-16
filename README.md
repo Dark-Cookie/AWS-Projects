@@ -128,16 +128,28 @@ Projects are labeled based these four levels:
   - **Service Used**: Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2)
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/8.%20Create%20an%20EFS%20Shared%20File%20System)
 
-- **Project 8**:  SQLServer Native Backup and Restore on RDS
-
-  - **Description**: Implemented SQL Server backup and restore on AWS RDS involving Amazon S3 bucket.
-  - **Service Used**: Amazon RDS, Amazon S3
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/9.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS)
-
 ## Level 300 (Advanced)
 
 **Projects at this level are for those with significant AWS experience. They include complex architectures and integrations.**
 
+- **Project 1**:  SQLServer Native Backup and Restore on RDS
+
+  - **Description**: Implemented SQL Server backup and restore on AWS RDS involving Amazon S3 bucket.
+  - **Service Used**: Amazon RDS, Amazon S3
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS)
+
+- **Project 2**:  Deploy a VPC with Terraform
+
+  - **Description**: Created Virtual Private Cloud (VPC), route tables (both public and private), route table associations, an internet gateway, an Elastic IP, and a NAT gateway and EC2 instance in both a public and a private subnet using Terraform (IaC)
+  - **Service Used**: Amazon VPC, Amazon EC2, Terraform
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20300/2.%20Deploy%20a%20VPC%20with%20Terraform)
+
 ## Level 400 (Expert)
 
 **These are the most challenging projects, showcasing advanced AWS solutions and best practices.**
+
+- **Project 1**:  Create a Cluster of Virtual Machines Using Docker Swarm
+
+  - **Description**: Set up a Docker Swarm cluster across five EC2 instances, with one manager node and four worker nodes, and tested it by deploying an Nginx service.
+  - **Service Used**: Amazon EC2, Docker (Swarm), Nginx
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/1.%20Create%20a%20Cluster%20of%20Virtual%20Machines%20Using%20Docker%20Swarm)
