@@ -110,19 +110,25 @@ Projects are labeled based these four levels:
   - **Service Used**: AWS Step Functions, AWS Lambda
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
 
-- **Project 5**:  Create a CloudWatch Alarm
+- **Project 5**:  Create a Serverless API
+
+  - **Description**: This project involves setting up a Lambda function designed to respond with the simple message, "Hello Serverless World!" An API Gateway is configured to expose this Lambda function as a RESTful API endpoint, which is tested using Postman. The API is secured with an API key to control access and ensure that only authorized clients can interact with the service.
+  - **Service Used**: AWS Lambda, Amazon API Gateway, AWS API Key
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/5.%20Create%20a%20Serverless%20API)
+
+- **Project 6**:  Create a CloudWatch Alarm
 
   - **Description**: Set up a CloudWatch Alarm to monitor network traffic (NetworkIn) for an EC2 instance.
   - **Service Used**: AWS CloudWatch, AWS EC2
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm)
 
-- **Project 6**:  Create a New CMK in KMS and Encrypt an Object
+- **Project 7**:  Create a New CMK in KMS and Encrypt an Object
 
   - **Description**: Created a new Customer Master Key (CMK) using AWS Key Management Service (KMS) and encrypted a file that was uploaded in an S3 bucket.
   - **Service Used**: AWS Key Management Service (KMS), Amazon S3
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/7.%20Create%20a%20New%20CMK%20in%20KMS%20and%20Encrypt%20an%20Object)
 
-- **Project 7**:  Create an EFS Shared File System
+- **Project 8**:  Create an EFS Shared File System
 
   - **Description**: Set up an Amazon Elastic File System (EFS) to provide a shared file system across multiple Amazon EC2 instances in separate Availability Zones within the same region.
   - **Service Used**: Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2)
