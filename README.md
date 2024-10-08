@@ -159,3 +159,9 @@ Projects are labeled based these four levels:
   - **Description**: Set up a Docker Swarm cluster across five EC2 instances, with one manager node and four worker nodes, and tested it by deploying an Nginx service.
   - **Service Used**: Amazon EC2, Docker (Swarm), Nginx
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/1.%20Create%20a%20Cluster%20of%20Virtual%20Machines%20Using%20Docker%20Swarm)
+
+- **Project 2**:  Build a Basic Web Application
+
+  - **Description**: This project involves building a full-stack web application using AWS Amplify. It features a simple React frontend with user authentication, a serverless function to handle user sign-ups, and a DynamoDB database for storing user emails. The application leverages AWS’s robust and scalable cloud services to deliver a seamless user experience, allowing users to sign up, log in, and store information securely.
+  - **Service Used**: AWS Amplify, AWS AppSync, AWS Lambda, Amazon DynamoDB, 
+  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/2.%20Build%20a%20Basic%20Web%20Application)
