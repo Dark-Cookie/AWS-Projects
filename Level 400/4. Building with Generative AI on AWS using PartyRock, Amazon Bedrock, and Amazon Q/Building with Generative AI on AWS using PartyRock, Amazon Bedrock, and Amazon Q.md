@@ -472,7 +472,7 @@ This project serves as a solid foundation for building applications that utilize
 
 ### **Code Repository**
 
-To explore and experiment with the project’s code and documentation, visit the **[GitHub Repository]()**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
+To explore and experiment with the project’s code and documentation, visit the **[GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/4.%20Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock,%20Amazon%20Bedrock,%20and%20Amazon%20Q)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
 
 > **Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler**
 
