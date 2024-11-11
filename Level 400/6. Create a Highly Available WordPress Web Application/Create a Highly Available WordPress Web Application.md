@@ -39,25 +39,7 @@ By deploying WordPress in a multi-tier architecture, I learned how to leverage A
 
 **Real-World Relevance**: This approach is ideal for production-grade WordPress applications with high traffic, such as e-commerce sites, news platforms, and corporate blogs. By implementing this architecture, companies can reduce manual management, lower costs, and improve their WordPress application’s reliability and speed.
 
-### Architecture Diagram
-
-Below is a high-level overview of the architecture used:
-
-![](https://cdn-images-1.medium.com/max/3840/1*V9c-nK9g3xTabZ4U2fBuQg.gif)
-
-### Component Breakdown
-
- 1. **Amazon VPC**: Used to define isolated environments, separating public and private resources and enabling tight control over network access.
-
- 2. **Amazon EC2 with Auto Scaling**: Hosts the WordPress application and dynamically scales to meet traffic demands. Instances are distributed across multiple availability zones for fault tolerance.
-
- 3. **Application Load Balancer (ALB)**: Distributes incoming traffic among the EC2 instances to ensure even load distribution and prevent any single instance from being overwhelmed.
-
- 4. **Amazon RDS (MySQL)**: A managed database service that hosts WordPress’s backend. Configured with automatic failover for high availability.
-
- 5. **Amazon EFS**: Provides shared storage that EC2 instances use to access WordPress media and content files, enabling seamless scaling and easy content management.
-
-### Step-by-Step Implementation
+## Step-by-Step Implementation
 
 ## Configure the network
 
