@@ -175,12 +175,9 @@ Projects are labeled based these four levels:
 - **Project 4**:  Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q
 
   - **Description**: In this project, I worked on three independent projects using Amazon Bedrock and PartyRock:
-
-1. Using PartyRock, I quickly built a book recommendation app that generates personalized suggestions based on the user’s mood and allows for an interactive chatbot experience. This no-code tool made it easy to create and deploy a simple app without writing a single line of code.
-
-2. In Amazon Bedrock, I experimented with powerful foundation models like Claude 3 Sonnet for chat, Amazon Titan for text generation, and Titan Image Generator for creating images from text prompts. This step showed me how to integrate AI models for more creative and dynamic use cases in real-world applications.
-
-3. Lastly, I implemented a document-based AI model that retrieves and uses context to answer questions. I set up embeddings using Amazon Titan, performed similarity searches with FAISS, and used the Claude 3 Sonnet model to generate accurate, context-based responses to user queries. This showcased how to build applications that not only generate content but also pull in relevant information from external sources.
+    -  Using PartyRock, I quickly built a book recommendation app that generates personalized suggestions based on the user’s mood and allows for an interactive chatbot experience. This no-code tool made it easy to create and deploy a simple app without writing a single line of code.
+    -  In Amazon Bedrock, I experimented with powerful foundation models like Claude 3 Sonnet for chat, Amazon Titan for text generation, and Titan Image Generator for creating images from text prompts. This step showed me how to integrate AI models for more creative and dynamic use cases in real-world applications.
+    -  Lastly, I implemented a document-based AI model that retrieves and uses context to answer questions. I set up embeddings using Amazon Titan, performed similarity searches with FAISS, and used the Claude 3 Sonnet model to generate accurate, context-based responses to user queries. This showcased how to build applications that not only generate content but also pull in relevant information from external sources.
 
   - **Service Used**:  PartyRock, Amazon Bedrock
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/4.%20Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q)
@@ -205,15 +202,13 @@ Projects are labeled based these four levels:
 
 
 - **Project 8**:  Building Web Applications based on Amazon EKS
-
- - **Description**: In this project, I built a web application based on Amazon Elastic Kubernetes Service (EKS). The architecture included creating a development environment using AWS Cloud9, building container images with Docker, uploading those images to Amazon Elastic Container Registry (ECR), deploying EKS clusters and services, exploring Container Insights, and implementing auto-scaling for pods and clusters. 
+  - **Description**: In this project, I built a web application based on Amazon Elastic Kubernetes Service (EKS). The architecture included creating a development environment using AWS Cloud9, building container images with Docker, uploading those images to Amazon Elastic Container Registry (ECR), deploying EKS clusters and services, exploring Container Insights, and implementing auto-scaling for pods and clusters. 
   - **Service Used**:  AWS Cloud9, Amazon Elastic Container Registry (ECR), Amazon Elastic Kubernetes Service (EKS), AWS Fargate
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/8.%20Building%20Web%20Applications%20Using%20Amazon%C2%A0EKS)
 
 
 - **Project 9**:  Large-scale Data Processing with Step Functions
-
- - **Description**: In this project, I implemented a large-scale data processing workflow using AWS Step Functions to orchestrate various tasks in a serverless architecture. The workflow utilized Amazon S3 for data storage, IAM for managing permissions, CloudWatch for monitoring and logging, and AWS X-Ray for tracing requests. 
+  - **Description**: In this project, I implemented a large-scale data processing workflow using AWS Step Functions to orchestrate various tasks in a serverless architecture. The workflow utilized Amazon S3 for data storage, IAM for managing permissions, CloudWatch for monitoring and logging, and AWS X-Ray for tracing requests. 
   - **Service Used**:  AWS Step Functions, Amazon S3, IAM (Identity and Access Management), CloudWatch, AWS X-Ray
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/9.%20Large-scale%20Data%20Processing%20with%20Step%20Functions)
 
@@ -226,8 +221,7 @@ Projects are labeled based these four levels:
 
 
 - **Project 11**:  Serverless Data Processing on AWS
-
- - **Description**: In this project, I implemented a serverless data processing solution using AWS services, including Amazon Kinesis, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon Cognito, and Amazon Athena. The architecture is designed to handle real-time data streams, process and store data efficiently, and enable ad-hoc querying for insights.
+  - **Description**: In this project, I implemented a serverless data processing solution using AWS services, including Amazon Kinesis, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon Cognito, and Amazon Athena. The architecture is designed to handle real-time data streams, process and store data efficiently, and enable ad-hoc querying for insights.
   - **Service Used**:  AWS Lambda, Amazon Kinesis Data Analytics, Amazon DynamoDB, Amazon S3, Amazon Kinesis Data Firehose, Amazon Athena, Amazon Cognito
   - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/11.%20Serverless%20Data%20Processing%20on%20AWS)
 
